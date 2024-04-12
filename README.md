@@ -4,7 +4,7 @@ A quick start Vue project that shows how to create a node and customize it in th
 
 Watch the video: Coming soon…
 
-Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/nodes
+Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/nodes <br/>
 Check out this online example of the Vue Diagram component: https://ej2.syncfusion.com/vue/demos/#/material3/diagram/node.html
 
 Make sure you have the latest versions of Node.js and Visual Studio Code on your machine before working on this project.

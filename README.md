@@ -1,10 +1,11 @@
 # How to Create and Customize Nodes in the Vue Diagram Component
 
-A quick start Vue project that shows how to create a node and customize it in the Syncfusion [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-nodes-sample). This project includes code snippets to create a node programmatically and use the drawing tool.
+A quick start Vue project that shows how to create a node and customize it in the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) This project includes code snippets to create a node programmatically and use the drawing tool.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-create-and-customize-nodes-in-the-vue-diagram
 
 Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/nodes <br/>
+
 Check out this online example of the Vue Diagram component: https://ej2.syncfusion.com/vue/demos/#/material3/diagram/node.html
 
 Make sure you have the latest versions of Node.js and Visual Studio Code on your machine before working on this project.
